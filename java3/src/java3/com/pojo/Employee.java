@@ -28,12 +28,12 @@ public class Employee {
 
 	@Override
 	public int hashCode() {
-		return 5;
+		return 9;
 	}
 
 	@Override
 	public boolean equals(Object object) {
-		return true;
+		return false;
 	}
 
 }
